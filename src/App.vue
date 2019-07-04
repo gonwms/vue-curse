@@ -2,14 +2,9 @@
   <div id="app">
     <!-- app -->
 
-  
     <AppHeader msg="un Header"></AppHeader>
     <Article></Article>
     <AppFooter></AppFooter>
-    
-
-
-
     <!-- end app -->
   </div>
 </template>
